@@ -1,0 +1,5 @@
+{
+    "require": {
+        "azuracast/php-api-client": "^2.0"
+    }
+}
